@@ -20,12 +20,12 @@ thus far.
 
 ## Applications
 
-* [igneus/church-calendar-api](https://github.com/igneus/church-calendar-api)
-  [OF|Ruby] liturgical calendar as JSON API
-  http://calapi.inadiutorium.cz/
 * [EWliturgy/CatholicLiturgicalCalendar](https://github.com/EWliturgy/CatholicLiturgicalCalendar)
   [OF|PHP,CLIPS]
   http://www.liturgy.guide/RCcal/RCLitCal.html
+* [igneus/church-calendar-api](https://github.com/igneus/church-calendar-api)
+  [OF|Ruby] liturgical calendar as JSON API
+  http://calapi.inadiutorium.cz/
 * [Divinum Officium](https://github.com/DivinumOfficium/divinum-officium)
   [EF|Perl] web app: Breviary, Missal, liturgical calendar
   http://divinumofficium.com

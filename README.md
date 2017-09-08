@@ -20,6 +20,9 @@ thus far.
 
 ## Applications
 
+* [igneus/church-calendar-api](https://github.com/igneus/church-calendar-api)
+  [OF|Ruby] liturgical calendar as JSON API
+  http://calapi.inadiutorium.cz/
 * [EWliturgy/CatholicLiturgicalCalendar](https://github.com/EWliturgy/CatholicLiturgicalCalendar)
   [OF|PHP,CLIPS]
   http://www.liturgy.guide/RCcal/RCLitCal.html
@@ -36,6 +39,8 @@ thus far.
   [non-Catholic|Python]
 * [vicmortelmans/LiturgyCalendar](https://github.com/vicmortelmans/LiturgyCalendar)
   [EF,OF|XSLT] generates liturgical calendar using *XSLT templates* (you have been warned)
+* [igneus/ordodo](https://github.com/igneus/ordodo)
+  [OF|Ruby] generates ordo/directory
 * [mattsmi/RCcalOnlyCLIPS](https://github.com/mattsmi/RCcalOnlyCLIPS)
   [OF|PHP,CLIPS]
 * [RomCal](http://www.romcal.net/)
@@ -45,6 +50,8 @@ thus far.
 
 * [emacsattic/cal-catholic](https://github.com/emacsattic/cal-catholic)
   [OF|LISP] Emacs LISP library
+* [igneus/calendarium-romanum](https://github.com/igneus/calendarium-romanum)
+  [OR|Ruby] Ruby library
 * [marmanold/Date-Lectionary](https://github.com/marmanold/Date-Lectionary)
   [non-Catholic|Perl] Anglican calendar, lectionary-centric
 * [MRNL-/LiturgicalCalendarUtils](https://github.com/MRNL-/LiturgicalCalendarUtils)

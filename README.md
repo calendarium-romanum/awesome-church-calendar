@@ -37,6 +37,9 @@ thus far.
   http://boris.maire.free.fr/index.php
 * [rsterbin/liturgicalendar](https://github.com/rsterbin/liturgicalendar)
   [non-Catholic|Python]
+* [Liturgischer Kalendar](http://www.eucharistiefeier.de/lk/)
+  [OF|non-free] web app, API, data of German dioceses, support for custom data and styles
+  http://www.eucharistiefeier.de/lk/
 * [vicmortelmans/LiturgyCalendar](https://github.com/vicmortelmans/LiturgyCalendar)
   [EF,OF|XSLT] generates liturgical calendar using *XSLT templates* (you have been warned)
 * [igneus/ordodo](https://github.com/igneus/ordodo)

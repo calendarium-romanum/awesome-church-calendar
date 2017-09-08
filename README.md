@@ -10,8 +10,9 @@ calendar as a tool for further purposes (web breviaries etc.).
 
 While keeping the format of ["awesome lists"](https://github.com/sindresorhus/awesome),
 this is actually not a curated selection of only the awesome
-church calendars, but a collection of all such software found
-thus far.
+church calendars, but a collection of all such software
+reaching sufficient level of completeness (~ able to generate
+a complete and mostly correct calendar for any year).
 
 ## Shortcuts
 

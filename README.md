@@ -36,6 +36,8 @@ a complete and mostly correct calendar for any year).
 * [bmaire28/LiturgiaHorarum](https://github.com/bmaire28/LiturgiaHorarum)
   [OF|PHP] web app: Breviary
   http://boris.maire.free.fr/index.php
+* [JohnRDOrazio/LiturgicalCalendar](https://github.com/JohnRDOrazio/LiturgicalCalendar)
+  [OF|PHP]
 * [rsterbin/liturgicalendar](https://github.com/rsterbin/liturgicalendar)
   [non-Catholic|Python]
 * [Liturgischer Kalendar](http://www.eucharistiefeier.de/lk/)
@@ -47,6 +49,8 @@ a complete and mostly correct calendar for any year).
   [OF|Ruby] generates ordo/directory
 * [mattsmi/RCcalOnlyCLIPS](https://github.com/mattsmi/RCcalOnlyCLIPS)
   [OF|PHP,CLIPS]
+* [jayarathina/Roman-Calendar](https://github.com/jayarathina/Roman-Calendar)
+  [OF|PHP]
 * [RomCal](http://www.romcal.net/)
   [OF|C,non-free]
 
@@ -55,8 +59,10 @@ a complete and mostly correct calendar for any year).
 * [emacsattic/cal-catholic](https://github.com/emacsattic/cal-catholic)
   [OF|LISP] Emacs LISP library
 * [igneus/calendarium-romanum](https://github.com/igneus/calendarium-romanum)
-  [OR|Ruby] Ruby library
+  [OF|Ruby] Ruby library
 * [marmanold/Date-Lectionary](https://github.com/marmanold/Date-Lectionary)
   [non-Catholic|Perl] Anglican calendar, lectionary-centric
+* [gitpan/DateTime-Calendar-Liturgical-Christian](https://github.com/gitpan/DateTime-Calendar-Liturgical-Christian)
+  [non-Catholic|Perl] USA Episcopal Church calendar
 * [MRNL-/LiturgicalCalendarUtils](https://github.com/MRNL-/LiturgicalCalendarUtils)
   [OF|Python] Python library

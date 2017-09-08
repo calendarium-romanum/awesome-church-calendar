@@ -8,6 +8,11 @@ with the liturgical calendar as their primary object,
 but also applications containing an implementation of the liturgical
 calendar as a tool for further purposes (web breviaries etc.).
 
+While keeping the format of ["awesome lists"](https://github.com/sindresorhus/awesome),
+this is actually not a curated selection of only the awesome
+church calendars, but a collection of all such software found
+thus far.
+
 ## Shortcuts
 
 * `OF` - Roman Catholic "Ordinary Form" (post-conciliar) calendar
@@ -41,6 +46,6 @@ calendar as a tool for further purposes (web breviaries etc.).
 * [emacsattic/cal-catholic](https://github.com/emacsattic/cal-catholic)
   [OF|LISP] Emacs LISP library
 * [marmanold/Date-Lectionary](https://github.com/marmanold/Date-Lectionary)
-  [non-Catholic|Perl] Anglican calendar
+  [non-Catholic|Perl] Anglican calendar, lectionary-centric
 * [MRNL-/LiturgicalCalendarUtils](https://github.com/MRNL-/LiturgicalCalendarUtils)
   [OF|Python] Python library

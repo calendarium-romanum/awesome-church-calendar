@@ -33,6 +33,8 @@ a complete and mostly correct calendar for any year).
 * [marmanold/LectServe](https://github.com/marmanold/LectServe)
   [non-Catholic|Perl] Anglican lectionary as JSON API
   http://www.lectserve.com
+* [breviar-sk/Liturgia-hodin-online](https://github.com/breviar-sk/Liturgia-hodin-online)
+  [OF|C++,non-free] web app: Breviary
 * [bmaire28/LiturgiaHorarum](https://github.com/bmaire28/LiturgiaHorarum)
   [OF|PHP] web app: Breviary
   http://boris.maire.free.fr/index.php

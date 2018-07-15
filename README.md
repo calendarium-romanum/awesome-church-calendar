@@ -68,3 +68,5 @@ a complete and mostly correct calendar for any year).
   [non-Catholic|Perl] USA Episcopal Church calendar
 * [MRNL-/LiturgicalCalendarUtils](https://github.com/MRNL-/LiturgicalCalendarUtils)
   [OF|Python] Python library
+* [pejulian/romcal](https://github.com/pejulian/romcal)
+  [OF|JavaScript] JavaScript library, with numerous national calendars

@@ -40,6 +40,8 @@ a complete and mostly correct calendar for any year).
   http://boris.maire.free.fr/index.php
 * [JohnRDOrazio/LiturgicalCalendar](https://github.com/JohnRDOrazio/LiturgicalCalendar)
   [OF|PHP]
+* [mmolenda/Missal1962](https://github.com/mmolenda/Missal1962)
+  [EF|Python] console app: calendar
 * [rsterbin/liturgicalendar](https://github.com/rsterbin/liturgicalendar)
   [non-Catholic|Python]
 * [Liturgischer Kalendar](http://www.eucharistiefeier.de/lk/)

@@ -55,6 +55,8 @@ a complete and mostly correct calendar for any year).
   [OF|PHP,CLIPS]
 * [jayarathina/Roman-Calendar](https://github.com/jayarathina/Roman-Calendar)
   [OF|PHP]
+* ["Reader Evangelizo"](http://feed.evangelizo.org/v2/reader.php)
+  [OF and more|non-free] calendar and lectionary API
 * [RomCal](http://www.romcal.net/)
   [OF|C,non-free]
 

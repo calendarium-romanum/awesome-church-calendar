@@ -21,6 +21,7 @@ a complete and mostly correct calendar for any year).
 
 ## Applications
 
+* [bubenic.cz](http://bubenic.cz/kalendar/) [OF|JavaScript] Czech only (code, data, documentation)
 * [EWliturgy/CatholicLiturgicalCalendar](https://github.com/EWliturgy/CatholicLiturgicalCalendar)
   [OF|PHP,CLIPS]
   http://www.liturgy.guide/RCcal/RCLitCal.html

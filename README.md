@@ -52,6 +52,8 @@ a complete and mostly correct calendar for any year).
   [EF,OF|XSLT] generates liturgical calendar using *XSLT templates* (you have been warned)
 * [igneus/ordodo](https://github.com/igneus/ordodo)
   [OF|Ruby] generates ordo/directory
+* [BrRoman/ordomatic](https://github.com/BrRoman/ordomatic)
+  [?|Python] generates ordo for a particular Benedictine monastery
 * [mattsmi/RCcalOnlyCLIPS](https://github.com/mattsmi/RCcalOnlyCLIPS)
   [OF|PHP,CLIPS]
 * [jayarathina/Roman-Calendar](https://github.com/jayarathina/Roman-Calendar)

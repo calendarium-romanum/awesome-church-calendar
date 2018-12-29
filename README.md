@@ -62,6 +62,7 @@ a complete and mostly correct calendar for any year).
   [OF and more|non-free] calendar and lectionary API
 * [RomCal](http://www.romcal.net/)
   [OF|C,non-free]
+* [vlastafiller.sweb.cz](http://vlastafiller.sweb.cz/kalendar_tradice.html) [EF|JavaScript] Czech only
 
 ## Libraries
 

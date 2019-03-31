@@ -31,6 +31,9 @@ a complete and mostly correct calendar for any year).
 * [Divinum Officium](https://github.com/DivinumOfficium/divinum-officium)
   [EF|Perl] web app: Breviary, Missal, liturgical calendar
   http://divinumofficium.com
+* [katolik.cz](http://www.katolik.cz/download/kalendar/informace.asp)
+  [OF|non-free] Windows desktop application +
+  [web application](http://kalendar.katolik.cz/), Czech only
 * [marmanold/LectServe](https://github.com/marmanold/LectServe)
   [non-Catholic|Perl] Anglican lectionary as JSON API
   http://www.lectserve.com

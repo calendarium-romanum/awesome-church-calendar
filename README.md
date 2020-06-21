@@ -53,6 +53,8 @@ a complete and mostly correct calendar for any year).
   http://www.eucharistiefeier.de/lk/
 * [vicmortelmans/LiturgyCalendar](https://github.com/vicmortelmans/LiturgyCalendar)
   [EF,OF|XSLT] generates liturgical calendar using *XSLT templates* (you have been warned)
+* [Medieval Calendar Calculator](https://www.wallandbinkley.com/mcc/)
+  [ancient|JavaScript]
 * [igneus/ordodo](https://github.com/igneus/ordodo)
   [OF|Ruby] generates ordo/directory
 * [BrRoman/ordomatic](https://github.com/BrRoman/ordomatic)

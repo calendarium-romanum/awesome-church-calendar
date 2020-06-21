@@ -22,6 +22,7 @@ a complete and mostly correct calendar for any year).
 ## Applications
 
 * [bubenic.cz](http://bubenic.cz/kalendar/) [OF|JavaScript] Czech only (code, data, documentation)
+* [calendarium-romanum/calrom](https://github.com/calendarium-romanum/calrom) [OF|Ruby] command-line calendar application
 * [EWliturgy/CatholicLiturgicalCalendar](https://github.com/EWliturgy/CatholicLiturgicalCalendar)
   [OF|PHP,CLIPS]
   http://www.liturgy.guide/RCcal/RCLitCal.html

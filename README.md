@@ -69,6 +69,7 @@ a complete and mostly correct calendar for any year).
 * [RomCal](http://www.romcal.net/)
   [OF|C,non-free]
 * [vlastafiller.sweb.cz](http://vlastafiller.sweb.cz/kalendar_tradice.html) [EF|JavaScript] Czech only
+* [AELF.org](https://api.aelf.org) [OF] Translation of the Bible, liturgical calendar, lectionary & breviary from the Liturgical Episcopal Association for French countries.
 
 ## Libraries
 

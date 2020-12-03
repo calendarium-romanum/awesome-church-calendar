@@ -44,7 +44,7 @@ a complete and mostly correct calendar for any year).
   [OF|PHP] web app: Breviary
   http://boris.maire.free.fr/index.php
 * [JohnRDOrazio/LiturgicalCalendar](https://github.com/JohnRDOrazio/LiturgicalCalendar)
-  [OF|PHP]
+  [OF|PHP] liturgical calendar as [JSON API](https://johnromanodorazio.com/LiturgicalCalendar/), customizable with diocesan data for dioceses in the United States and Italy (national data already included)
 * [mmolenda/Missal1962](https://github.com/mmolenda/Missal1962)
   [EF|Python] console app: calendar
 * [rsterbin/liturgicalendar](https://github.com/rsterbin/liturgicalendar)

@@ -56,6 +56,7 @@ a complete and mostly correct calendar for any year).
   [EF,OF|XSLT] generates liturgical calendar using *XSLT templates* (you have been warned)
 * [Medieval Calendar Calculator](https://www.wallandbinkley.com/mcc/)
   [ancient|JavaScript]
+* [Calendar Tools by Otfried Lieberknecht](http://www.lieberknecht.de/~prg/calendar.htm) [ancient|JavaScript]
 * [igneus/ordodo](https://github.com/igneus/ordodo)
   [OF|Ruby] generates ordo/directory
 * [BrRoman/ordomatic](https://github.com/BrRoman/ordomatic)

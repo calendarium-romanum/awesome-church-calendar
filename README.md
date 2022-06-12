@@ -43,8 +43,15 @@ a complete and mostly correct calendar for any year).
 * [bmaire28/LiturgiaHorarum](https://github.com/bmaire28/LiturgiaHorarum)
   [OF|PHP] web app: Breviary
   http://boris.maire.free.fr/index.php
-* [JohnRDOrazio/LiturgicalCalendar](https://github.com/JohnRDOrazio/LiturgicalCalendar)
-  [OF|PHP] liturgical calendar as JSON API and ICAL feed, customizable with diocesan data for dioceses in the United States and Italy (national data already included), [website](https://johnromanodorazio.com/LiturgicalCalendar/)
+* [LitCal Project](https://github.com/Liturgical-Calendar)
+  [OF|PHP] liturgical calendar as [JSON API and ICAL feed](https://github.com/Liturgical-Calendar/LiturgicalCalendarAPI), customizable with national and diocesan data for any diocese in the world (data for Italy and the USA is currently included), includes a UI interface where any diocese can define it's own liturgical celebrations ([source](https://github.com/Liturgical-Calendar/LiturgicalCalendarFrontend), user facing frontends [Wider Region data definition](https://litcal.johnromanodorazio.com/extending.php?choice=widerRegion), [National Calendar data definition](https://litcal.johnromanodorazio.com/extending.php?choice=national), [Diocesan Calendar data definition](https://litcal.johnromanodorazio.com/extending.php?choice=diocesan)). Also includes some starter scripts for usage of the API:
+    * https://github.com/Liturgical-Calendar/examples
+    * https://github.com/Liturgical-Calendar/liturgy-of-the-day-react
+    * https://github.com/Liturgical-Calendar/AmazonAlexa-newsbrief
+    * https://github.com/Liturgical-Calendar/AmazonAlexa-interactive
+    * [Presentation website here.](https://litcal.johnromanodorazio.com/)
+    * Also includes an API for calculation of the date of easter from 1970 to 1999 ([source](https://github.com/Liturgical-Calendar/LiturgicalCalendarAPI/blob/master/DateOfEaster.php), [userfacing UI](https://litcal.johnromanodorazio.com/easter.php))
+    * Also includes an [API for calculation of liturgical anniversaries](https://github.com/Liturgical-Calendar/LitCalAnniversaryCalculator), with a user facing UI ([source](https://github.com/opera-romana-pellegrinaggi/litcal-anniversari-frontend), [frontend](https://www.johnromanodorazio.com/LitCalAnniversariesFrontend/))
 * [mmolenda/Missal1962](https://github.com/mmolenda/Missal1962)
   [EF|Python] console app: calendar
 * [rsterbin/liturgicalendar](https://github.com/rsterbin/liturgicalendar)
